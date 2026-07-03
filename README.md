@@ -6,6 +6,8 @@ Region Behavior Control<br>
 Rotate Tile (fixes standard rotation reversal bug)<br>
 Store Roll Result (requires Monk's Tokenbar)<br>
 Trigger Random Tile<br>
+Select Tokens<br>
+Get Time<br>
 
 Module Install URL: https://github.com/FlyingFree333/FoundryFan-Utilities/releases/latest/download/module.json
 
