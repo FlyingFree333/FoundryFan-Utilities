@@ -8,7 +8,7 @@ Store Roll Result (requires Monk's Tokenbar)<br>
 Trigger Random Tile<br>
 Select Tokens<br>
 Get Time<br>
-TokenMagic FX<br>
+TokenMagic FX Control (requires TokenMagic FX)<br>
 
 Module Install URL: https://github.com/FlyingFree333/FoundryFan-Utilities/releases/latest/download/module.json
 
