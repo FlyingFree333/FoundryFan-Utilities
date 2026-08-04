@@ -10,6 +10,7 @@ Select Tokens<br>
 Get Time<br>
 TokenMagic FX Control (requires TokenMagic FX)<br>
 Sequencer FX (requires Sequencer)<br>
+Filter Multiple Attributes (listed under filters, not under FoundryFan Utilities)<br>
 
 Module Install URL: https://github.com/FlyingFree333/FoundryFan-Utilities/releases/latest/download/module.json
 
