@@ -13,9 +13,6 @@ Sequencer FX (requires Sequencer)<br>
 Filter Multiple Attributes (listed under filters, not under FoundryFan Utilities)<br>
 
 Module Install URL: https://github.com/FlyingFree333/FoundryFan-Utilities/releases/latest/download/module.json
-
 YouTube Channel: https://www.youtube.com/@FoundryFan
-
 Discord: https://discord.gg/vDvrfB5sYj
-
 Buy me a coffee: http://ko-fi.com/flyingfree
