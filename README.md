@@ -15,6 +15,7 @@ Get Attribute<br>
 Copy Variable<br>
 
 Module Install URL: https://github.com/FlyingFree333/FoundryFan-Utilities/releases/latest/download/module.json <br>
+Wiki: https://github.com/ironmonk108/monks-module-wiki/wiki/MATT-Actions#foundryfan-utilities-additions <br>
 YouTube Channel: https://www.youtube.com/@FoundryFan <br>
 Discord: https://discord.gg/vDvrfB5sYj <br>
 Buy me a coffee: http://ko-fi.com/flyingfree
